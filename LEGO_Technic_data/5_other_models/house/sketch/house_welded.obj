@@ -1,0 +1,409 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.05.2018 12:28:56
+
+#
+# shape Segment0
+#
+
+# 0 vertices
+
+o Segment0
+g Segment0
+
+#
+# shape Segment1
+#
+
+# 0 vertices
+
+o Segment1
+g Segment1
+
+#
+# shape Segment2
+#
+
+# 0 vertices
+
+o Segment2
+g Segment2
+
+#
+# shape Segment3
+#
+
+# 0 vertices
+
+o Segment3
+g Segment3
+
+#
+# shape Segment4
+#
+
+# 0 vertices
+
+o Segment4
+g Segment4
+
+#
+# shape Segment5
+#
+
+v  -7.000000 -15.000000 34.000000
+v  -7.000000 -15.000000 40.000000
+v  1.000000 -15.000000 34.000000
+v  9.000000 -15.000000 40.000000
+v  9.000000 -15.000000 34.000000
+# 5 vertices
+
+o Segment5
+g Segment5
+l 1 2 3 4 5
+
+#
+# shape Segment6
+#
+
+# 0 vertices
+
+o Segment6
+g Segment6
+
+#
+# shape Segment7
+#
+
+# 0 vertices
+
+o Segment7
+g Segment7
+
+#
+# shape Segment8
+#
+
+# 0 vertices
+
+o Segment8
+g Segment8
+
+#
+# shape Segment9
+#
+
+v  1.000000 -15.000000 34.000000
+v  1.000000 -15.000000 46.000000
+# 2 vertices
+
+o Segment9
+g Segment9
+l 6 7
+
+#
+# shape Segment10
+#
+
+v  -15.000000 -15.000000 34.000000
+v  -7.000000 -15.000000 40.000000
+v  1.000000 -15.000000 46.000000
+v  9.000000 -15.000000 40.000000
+v  17.000000 -15.000000 34.000000
+# 5 vertices
+
+o Segment10
+g Segment10
+l 8 9 10 11 12
+
+#
+# shape Segment11
+#
+
+# 0 vertices
+
+o Segment11
+g Segment11
+
+#
+# shape Segment12
+#
+
+# 0 vertices
+
+o Segment12
+g Segment12
+
+#
+# shape Segment13
+#
+
+# 0 vertices
+
+o Segment13
+g Segment13
+
+#
+# shape Segment14
+#
+
+v  -15.000000 -15.000000 0.000000
+v  -15.000000 -15.000000 34.000000
+# 2 vertices
+
+o Segment14
+g Segment14
+l 13 14
+
+#
+# shape Segment15
+#
+
+v  17.000000 -15.000000 0.000000
+v  17.000000 -15.000000 34.000000
+# 2 vertices
+
+o Segment15
+g Segment15
+l 15 16
+
+#
+# shape Segment16
+#
+
+v  -7.000000 15.000000 34.000000
+v  -7.000000 15.000000 40.000000
+v  1.000000 15.000000 34.000000
+v  9.000000 15.000000 40.000000
+v  9.000000 15.000000 34.000000
+# 5 vertices
+
+o Segment16
+g Segment16
+l 17 18 19 20 21
+
+#
+# shape Segment17
+#
+
+# 0 vertices
+
+o Segment17
+g Segment17
+
+#
+# shape Segment18
+#
+
+# 0 vertices
+
+o Segment18
+g Segment18
+
+#
+# shape Segment19
+#
+
+# 0 vertices
+
+o Segment19
+g Segment19
+
+#
+# shape Segment20
+#
+
+v  1.000000 15.000000 34.000000
+v  1.000000 15.000000 46.000000
+# 2 vertices
+
+o Segment20
+g Segment20
+l 22 23
+
+#
+# shape Segment21
+#
+
+v  17.000000 15.000000 0.000000
+v  17.000000 15.000000 34.000000
+# 2 vertices
+
+o Segment21
+g Segment21
+l 24 25
+
+#
+# shape Segment22
+#
+
+v  -15.000000 15.000000 0.000000
+v  -15.000000 15.000000 34.000000
+v  -7.000000 15.000000 34.000000
+v  1.000000 15.000000 34.000000
+v  9.000000 15.000000 34.000000
+v  17.000000 15.000000 34.000000
+# 6 vertices
+
+o Segment22
+g Segment22
+l 26 27 28 29 30 31
+
+#
+# shape Segment23
+#
+
+# 0 vertices
+
+o Segment23
+g Segment23
+
+#
+# shape Segment24
+#
+
+# 0 vertices
+
+o Segment24
+g Segment24
+
+#
+# shape Segment25
+#
+
+# 0 vertices
+
+o Segment25
+g Segment25
+
+#
+# shape Segment26
+#
+
+# 0 vertices
+
+o Segment26
+g Segment26
+
+#
+# shape Segment27
+#
+
+# 0 vertices
+
+o Segment27
+g Segment27
+
+#
+# shape Segment28
+#
+
+v  -15.000000 15.000000 34.000000
+v  -7.000000 15.000000 40.000000
+v  1.000000 15.000000 46.000000
+v  9.000000 15.000000 40.000000
+v  17.000000 15.000000 34.000000
+# 5 vertices
+
+o Segment28
+g Segment28
+l 32 33 34 35 36
+
+#
+# shape Segment29
+#
+
+# 0 vertices
+
+o Segment29
+g Segment29
+
+#
+# shape Segment30
+#
+
+# 0 vertices
+
+o Segment30
+g Segment30
+
+#
+# shape Segment31
+#
+
+# 0 vertices
+
+o Segment31
+g Segment31
+
+#
+# shape Segment32
+#
+
+v  -15.000000 -15.000000 34.000000
+v  -15.000000 15.000000 34.000000
+# 2 vertices
+
+o Segment32
+g Segment32
+l 37 38
+
+#
+# shape Segment33
+#
+
+v  17.000000 15.000000 34.000000
+v  17.000000 -15.000000 34.000000
+# 2 vertices
+
+o Segment33
+g Segment33
+l 39 40
+
+#
+# shape Segment34
+#
+
+v  1.000000 -15.000000 46.000000
+v  1.000000 15.000000 46.000000
+# 2 vertices
+
+o Segment34
+g Segment34
+l 41 42
+
+#
+# shape Segment35
+#
+
+v  -7.000000 -15.000000 34.000000
+v  -7.000000 15.000000 34.000000
+# 2 vertices
+
+o Segment35
+g Segment35
+l 43 44
+
+#
+# shape Segment36
+#
+
+v  1.000000 15.000000 34.000000
+v  1.000000 -15.000000 34.000000
+# 2 vertices
+
+o Segment36
+g Segment36
+l 45 46
+
+#
+# shape Segment37
+#
+
+v  9.000000 -15.000000 34.000000
+v  9.000000 15.000000 34.000000
+# 2 vertices
+
+o Segment37
+g Segment37
+l 47 48
+

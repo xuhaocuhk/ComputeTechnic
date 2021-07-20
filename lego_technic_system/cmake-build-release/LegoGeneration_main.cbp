@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LegoGeneration_main"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LegoGeneration_main">
+				<Option output="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bin/LegoGeneration_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release"/>
+					<Add directory="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main"/>
+					<Add directory="/Users/xuhao/tools/eigen"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 LegoGeneration_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LegoGeneration_main/fast">
+				<Option output="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bin/LegoGeneration_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release"/>
+					<Add directory="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main"/>
+					<Add directory="/Users/xuhao/tools/eigen"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 LegoGeneration_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/ColorTable.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/ColorTable.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/Beam.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/Beam.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/BeamHole.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/BeamHole.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/BrickFactory.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/BrickFactory.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/Connector.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/Connector.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/Pin.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/bricks/Pin.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/BeamGroup.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/BeamGroup.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/BeamHoleGraph.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/BeamHoleGraph.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/BeamHoleGroup.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/BeamProcessor.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/BeamProcessor.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/ConnectorGenerator.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/connector_assign/ConnectorGenerator.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/hard_code/BoundingBox.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/hard_code/BoundingBox.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/hard_code/GenCandidates.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/BeamNode.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/ComponentNode.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/ConnectionGraph.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/ConnectionGraph.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/DataWriter.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/DataWriter.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/Grader.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/GraphEdge.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/LEGOGenerator.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/LayerGraph.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/LayerHole.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/LayerNode.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/LayerNode.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/Model.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/SketchGraph.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/SketchGroup.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/SketchLine.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/SketchPoint.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/SymmetryRelation.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/data.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/global_variables.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/test.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/head_file/util.h">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/main.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/Grader.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/LEGOGenerator.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/LayerGraph.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/LayerHole.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/PostProcessing.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/SketchGraph.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/SketchGroup.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/SketchLine.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/SketchPoint.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/SymmetryRelation.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/global_variables.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/source_file/util.cpp">
+			<Option target="LegoGeneration_main"/>
+		</Unit>
+		<Unit filename="/Users/xuhao/workspace/cpp/LEGO_Technic_code/lego_technic_main/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

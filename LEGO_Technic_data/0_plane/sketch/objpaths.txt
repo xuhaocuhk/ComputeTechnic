@@ -1,0 +1,4 @@
+3
+C:/Users/liruihui/Dropbox/LEGO_Technic_data/plane/sketch/
+plane_with_feature
+plane_with_feature_welded

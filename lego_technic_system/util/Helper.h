@@ -1,0 +1,11 @@
+//
+// Created by 徐豪 on 2018/6/26.
+//
+
+#ifndef LEGO_TECHNIC_MAIN_HELPER_H
+#define LEGO_TECHNIC_MAIN_HELPER_H
+
+#define POSITIVE_ZERO 0.05
+#define NO_LAYER 568465855
+
+#endif //LEGO_TECHNIC_MAIN_HELPER_H

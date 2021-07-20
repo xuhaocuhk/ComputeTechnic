@@ -1,0 +1,41 @@
+v 0 0 0
+v 0 0 8
+v 8 0 8
+v 8 -8 8
+v 0 -8 8
+v 0 -8 0
+v 8 -8 0
+v 8 0 0
+v 8 0 16
+v 8 -8 16
+v 0 -8 2
+v 6 0 8
+g Spine
+g Segment0
+l 1 2
+g Segment1
+l 2 12
+l 12 3
+l 5 12
+g Segment2
+l 3 4
+g Segment3
+l 4 5
+g Segment5
+l 2 5
+g Segment6
+l 4 7
+g Segment7
+l 3 8
+g Segment8
+l 9 3
+g Segment9
+l 10 4
+g Segment10
+l 1 8
+g Segment11
+l 5 11
+g Segment12
+l 11 6
+g Segment13
+l 2 11

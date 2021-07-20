@@ -1,0 +1,2344 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 31.12.2017 11:27:23
+
+#
+# shape Segment2
+#
+
+v  4.000000 0.000001 0.000000
+v  12.000000 0.000000 0.000000
+# 2 vertices
+
+o Segment2
+g Segment2
+l 1 2
+
+#
+# shape Segment3
+#
+
+v  -4.000002 0.000000 5.000000
+v  3.999998 0.000000 5.000000
+# 2 vertices
+
+o Segment3
+g Segment3
+l 3 4
+
+#
+# shape Segment4
+#
+
+v  -4.000002 0.000000 5.000000
+v  -12.000000 0.000000 5.000000
+# 2 vertices
+
+o Segment4
+g Segment4
+l 5 6
+
+#
+# shape Segment5
+#
+
+v  3.999998 0.000000 5.000000
+v  12.000000 0.000000 5.000000
+# 2 vertices
+
+o Segment5
+g Segment5
+l 7 8
+
+#
+# shape Segment6
+#
+
+v  -4.000002 0.000000 10.000000
+v  3.999998 0.000000 10.000000
+# 2 vertices
+
+o Segment6
+g Segment6
+l 9 10
+
+#
+# shape Segment7
+#
+
+v  -4.000002 0.000000 10.000000
+v  -12.000000 0.000000 10.000000
+# 2 vertices
+
+o Segment7
+g Segment7
+l 11 12
+
+#
+# shape Segment8
+#
+
+v  3.999998 0.000000 10.000000
+v  12.000000 0.000000 10.000000
+# 2 vertices
+
+o Segment8
+g Segment8
+l 13 14
+
+#
+# shape Segment9
+#
+
+v  3.999998 0.000000 15.000000
+v  12.000000 0.000000 15.000000
+# 2 vertices
+
+o Segment9
+g Segment9
+l 15 16
+
+#
+# shape Segment10
+#
+
+v  -4.000002 0.000000 15.000000
+v  3.999998 0.000000 15.000000
+# 2 vertices
+
+o Segment10
+g Segment10
+l 17 18
+
+#
+# shape Segment11
+#
+
+v  -4.000002 0.000000 15.000000
+v  -12.000000 0.000000 15.000000
+# 2 vertices
+
+o Segment11
+g Segment11
+l 19 20
+
+#
+# shape Segment12
+#
+
+v  -4.000002 0.000000 20.000000
+v  3.999998 0.000000 20.000000
+# 2 vertices
+
+o Segment12
+g Segment12
+l 21 22
+
+#
+# shape Segment13
+#
+
+v  -4.000002 0.000000 20.000000
+v  -12.000000 0.000000 20.000000
+# 2 vertices
+
+o Segment13
+g Segment13
+l 23 24
+
+#
+# shape Segment14
+#
+
+v  3.999998 0.000000 20.000000
+v  12.000000 0.000000 20.000000
+# 2 vertices
+
+o Segment14
+g Segment14
+l 25 26
+
+#
+# shape Segment15
+#
+
+v  3.999998 0.000000 25.000000
+v  12.000000 0.000000 25.000000
+# 2 vertices
+
+o Segment15
+g Segment15
+l 27 28
+
+#
+# shape Segment16
+#
+
+v  -4.000002 0.000000 25.000000
+v  3.999998 0.000000 25.000000
+# 2 vertices
+
+o Segment16
+g Segment16
+l 29 30
+
+#
+# shape Segment17
+#
+
+v  -4.000002 0.000000 25.000000
+v  -12.000000 0.000000 25.000000
+# 2 vertices
+
+o Segment17
+g Segment17
+l 31 32
+
+#
+# shape Segment18
+#
+
+v  -4.000000 -0.000001 30.000000
+v  -12.000000 0.000000 30.000000
+# 2 vertices
+
+o Segment18
+g Segment18
+l 33 34
+
+#
+# shape Segment19
+#
+
+v  0.000000 0.000000 30.000000
+v  4.000000 -0.000001 30.000000
+# 2 vertices
+
+o Segment19
+g Segment19
+l 35 36
+
+#
+# shape Segment20
+#
+
+v  0.000000 0.000000 30.000000
+v  -4.000000 -0.000001 30.000000
+# 2 vertices
+
+o Segment20
+g Segment20
+l 37 38
+
+#
+# shape Segment21
+#
+
+v  4.000000 -0.000001 30.000000
+v  12.000000 0.000000 30.000000
+# 2 vertices
+
+o Segment21
+g Segment21
+l 39 40
+
+#
+# shape Segment26
+#
+
+v  0.000000 0.000000 35.000000
+v  0.000000 0.000000 30.000000
+# 2 vertices
+
+o Segment26
+g Segment26
+l 41 42
+
+#
+# shape Segment30
+#
+
+v  -4.000000 8.000001 0.000000
+v  -12.000000 8.000000 0.000000
+# 2 vertices
+
+o Segment30
+g Segment30
+l 43 44
+
+#
+# shape Segment31
+#
+
+v  4.000000 8.000001 0.000000
+v  -4.000000 8.000001 0.000000
+# 2 vertices
+
+o Segment31
+g Segment31
+l 45 46
+
+#
+# shape Segment32
+#
+
+v  4.000000 8.000001 0.000000
+v  12.000000 8.000000 0.000000
+v  12.000000 8.000000 5.000000
+# 3 vertices
+
+o Segment32
+g Segment32
+l 47 48 49
+
+#
+# shape Segment34
+#
+
+v  -12.000000 8.000000 0.000000
+v  -12.000000 8.000000 5.000000
+v  12.000000 8.000000 5.000000
+# 3 vertices
+
+o Segment34
+g Segment34
+l 50 51 52
+
+#
+# shape Segment36
+#
+
+v  -12.000000 8.000000 5.000000
+v  -12.000000 8.000000 10.000000
+v  12.000000 8.000000 10.000000
+v  12.000000 8.000000 5.000000
+# 4 vertices
+
+o Segment36
+g Segment36
+l 53 54 55 56
+
+#
+# shape Segment39
+#
+
+v  12.000000 8.000000 10.000000
+v  12.000000 8.000000 15.000000
+v  -12.000000 8.000000 15.000000
+v  -12.000000 8.000000 10.000000
+# 4 vertices
+
+o Segment39
+g Segment39
+l 57 58 59 60
+
+#
+# shape Segment42
+#
+
+v  -12.000000 8.000000 15.000000
+v  -12.000000 8.000000 20.000000
+v  12.000000 8.000000 20.000000
+v  12.000000 8.000000 15.000000
+# 4 vertices
+
+o Segment42
+g Segment42
+l 61 62 63 64
+
+#
+# shape Segment45
+#
+
+v  12.000000 8.000000 20.000000
+v  12.000000 8.000000 25.000000
+v  -12.000000 8.000000 25.000000
+v  -12.000000 8.000000 20.000000
+# 4 vertices
+
+o Segment45
+g Segment45
+l 65 66 67 68
+
+#
+# shape Segment48
+#
+
+v  -12.000000 8.000000 25.000000
+v  -12.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment48
+g Segment48
+l 69 70
+
+#
+# shape Segment49
+#
+
+v  -4.000000 8.000000 30.000000
+v  -12.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment49
+g Segment49
+l 71 72
+
+#
+# shape Segment50
+#
+
+v  0.000000 8.000000 30.000000
+v  4.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment50
+g Segment50
+l 73 74
+
+#
+# shape Segment51
+#
+
+v  0.000000 8.000000 30.000000
+v  -4.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment51
+g Segment51
+l 75 76
+
+#
+# shape Segment52
+#
+
+v  4.000000 8.000000 30.000000
+v  12.000000 8.000000 30.000000
+v  12.000000 8.000000 25.000000
+# 3 vertices
+
+o Segment52
+g Segment52
+l 77 78 79
+
+#
+# shape Segment54
+#
+
+v  -4.000000 8.000001 0.000000
+v  -4.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment54
+g Segment54
+l 80 81
+
+#
+# shape Segment55
+#
+
+v  4.000000 8.000000 30.000000
+v  4.000000 8.000001 0.000000
+# 2 vertices
+
+o Segment55
+g Segment55
+l 82 83
+
+#
+# shape Segment56
+#
+
+v  -12.000000 8.000000 30.000000
+v  0.000000 8.000000 35.000000
+v  12.000000 8.000000 30.000000
+# 3 vertices
+
+o Segment56
+g Segment56
+l 84 85 86
+
+#
+# shape Segment58
+#
+
+v  0.000000 8.000000 35.000000
+v  0.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment58
+g Segment58
+l 87 88
+
+#
+# shape Segment59
+#
+
+v  -12.000000 8.000000 0.000000
+v  -12.000000 8.000000 -3.000000
+# 2 vertices
+
+o Segment59
+g Segment59
+l 89 90
+
+#
+# shape Segment60
+#
+
+v  -4.000000 8.000001 0.000000
+v  -4.000000 8.000000 -3.000000
+# 2 vertices
+
+o Segment60
+g Segment60
+l 91 92
+
+#
+# shape Segment61
+#
+
+v  4.000000 8.000001 0.000000
+v  4.000000 8.000000 -3.000000
+# 2 vertices
+
+o Segment61
+g Segment61
+l 93 94
+
+#
+# shape Segment62
+#
+
+v  12.000000 8.000000 0.000000
+v  12.000000 8.000000 -3.000000
+# 2 vertices
+
+o Segment62
+g Segment62
+l 95 96
+
+#
+# shape Segment63
+#
+
+v  -4.000000 16.000000 0.000000
+v  -12.000000 16.000000 0.000000
+# 2 vertices
+
+o Segment63
+g Segment63
+l 97 98
+
+#
+# shape Segment64
+#
+
+v  4.000000 16.000000 0.000000
+v  -4.000000 16.000000 0.000000
+# 2 vertices
+
+o Segment64
+g Segment64
+l 99 100
+
+#
+# shape Segment65
+#
+
+v  4.000000 16.000000 0.000000
+v  12.000000 16.000000 0.000000
+v  12.000000 16.000000 5.000000
+# 3 vertices
+
+o Segment65
+g Segment65
+l 101 102 103
+
+#
+# shape Segment67
+#
+
+v  -12.000000 16.000000 0.000000
+v  -12.000000 16.000000 5.000000
+v  12.000000 16.000000 5.000000
+# 3 vertices
+
+o Segment67
+g Segment67
+l 104 105 106
+
+#
+# shape Segment69
+#
+
+v  -12.000000 16.000000 5.000000
+v  -12.000000 16.000000 10.000000
+v  12.000000 16.000000 10.000000
+v  12.000000 16.000000 5.000000
+# 4 vertices
+
+o Segment69
+g Segment69
+l 107 108 109 110
+
+#
+# shape Segment72
+#
+
+v  12.000000 16.000000 10.000000
+v  12.000000 16.000000 15.000000
+v  -12.000000 16.000000 15.000000
+v  -12.000000 16.000000 10.000000
+# 4 vertices
+
+o Segment72
+g Segment72
+l 111 112 113 114
+
+#
+# shape Segment75
+#
+
+v  -12.000000 16.000000 15.000000
+v  -12.000000 16.000000 20.000000
+v  12.000000 16.000000 20.000000
+v  12.000000 16.000000 15.000000
+# 4 vertices
+
+o Segment75
+g Segment75
+l 115 116 117 118
+
+#
+# shape Segment78
+#
+
+v  12.000000 16.000000 20.000000
+v  12.000000 16.000000 25.000000
+v  -12.000000 16.000000 25.000000
+v  -12.000000 16.000000 20.000000
+# 4 vertices
+
+o Segment78
+g Segment78
+l 119 120 121 122
+
+#
+# shape Segment81
+#
+
+v  -12.000000 16.000000 25.000000
+v  -12.000000 16.000000 30.000000
+# 2 vertices
+
+o Segment81
+g Segment81
+l 123 124
+
+#
+# shape Segment82
+#
+
+v  -4.000000 15.999999 30.000000
+v  -12.000000 16.000000 30.000000
+# 2 vertices
+
+o Segment82
+g Segment82
+l 125 126
+
+#
+# shape Segment83
+#
+
+v  0.000000 16.000000 30.000000
+v  4.000000 15.999999 30.000000
+# 2 vertices
+
+o Segment83
+g Segment83
+l 127 128
+
+#
+# shape Segment84
+#
+
+v  0.000000 16.000000 30.000000
+v  -4.000000 15.999999 30.000000
+# 2 vertices
+
+o Segment84
+g Segment84
+l 129 130
+
+#
+# shape Segment85
+#
+
+v  4.000000 15.999999 30.000000
+v  12.000000 16.000000 30.000000
+v  12.000000 16.000000 25.000000
+# 3 vertices
+
+o Segment85
+g Segment85
+l 131 132 133
+
+#
+# shape Segment87
+#
+
+v  -4.000000 16.000000 0.000000
+v  -4.000000 15.999999 30.000000
+# 2 vertices
+
+o Segment87
+g Segment87
+l 134 135
+
+#
+# shape Segment88
+#
+
+v  4.000000 15.999999 30.000000
+v  4.000000 16.000000 0.000000
+# 2 vertices
+
+o Segment88
+g Segment88
+l 136 137
+
+#
+# shape Segment89
+#
+
+v  -12.000000 16.000000 30.000000
+v  0.000000 16.000000 35.000000
+v  12.000000 16.000000 30.000000
+# 3 vertices
+
+o Segment89
+g Segment89
+l 138 139 140
+
+#
+# shape Segment91
+#
+
+v  0.000000 16.000000 35.000000
+v  0.000000 16.000000 30.000000
+# 2 vertices
+
+o Segment91
+g Segment91
+l 141 142
+
+#
+# shape Segment92
+#
+
+v  -12.000000 16.000000 0.000000
+v  -12.000000 16.000000 -3.000000
+# 2 vertices
+
+o Segment92
+g Segment92
+l 143 144
+
+#
+# shape Segment93
+#
+
+v  -4.000000 16.000000 0.000000
+v  -4.000000 16.000000 -3.000000
+# 2 vertices
+
+o Segment93
+g Segment93
+l 145 146
+
+#
+# shape Segment94
+#
+
+v  4.000000 16.000000 0.000000
+v  4.000000 16.000000 -3.000000
+# 2 vertices
+
+o Segment94
+g Segment94
+l 147 148
+
+#
+# shape Segment95
+#
+
+v  12.000000 16.000000 0.000000
+v  12.000000 16.000000 -3.000000
+# 2 vertices
+
+o Segment95
+g Segment95
+l 149 150
+
+#
+# shape Segment96
+#
+
+v  -4.000000 24.000000 0.000000
+v  -12.000000 24.000000 0.000000
+# 2 vertices
+
+o Segment96
+g Segment96
+l 151 152
+
+#
+# shape Segment97
+#
+
+v  4.000000 24.000000 0.000000
+v  -4.000000 24.000000 0.000000
+# 2 vertices
+
+o Segment97
+g Segment97
+l 153 154
+
+#
+# shape Segment98
+#
+
+v  4.000000 24.000000 0.000000
+v  12.000000 24.000000 0.000000
+v  12.000000 24.000000 5.000000
+# 3 vertices
+
+o Segment98
+g Segment98
+l 155 156 157
+
+#
+# shape Segment100
+#
+
+v  -12.000000 24.000000 0.000000
+v  -12.000000 24.000000 5.000000
+# 2 vertices
+
+o Segment100
+g Segment100
+l 158 159
+
+#
+# shape Segment101
+#
+
+v  -3.999998 24.000000 5.000000
+v  4.000002 24.000000 5.000000
+# 2 vertices
+
+o Segment101
+g Segment101
+l 160 161
+
+#
+# shape Segment102
+#
+
+v  -3.999998 24.000000 5.000000
+v  -12.000000 24.000000 5.000000
+# 2 vertices
+
+o Segment102
+g Segment102
+l 162 163
+
+#
+# shape Segment103
+#
+
+v  4.000002 24.000000 5.000000
+v  12.000000 24.000000 5.000000
+# 2 vertices
+
+o Segment103
+g Segment103
+l 164 165
+
+#
+# shape Segment104
+#
+
+v  -12.000000 24.000000 5.000000
+v  -12.000000 24.000000 10.000000
+# 2 vertices
+
+o Segment104
+g Segment104
+l 166 167
+
+#
+# shape Segment105
+#
+
+v  -3.999998 24.000000 10.000000
+v  4.000002 24.000000 10.000000
+# 2 vertices
+
+o Segment105
+g Segment105
+l 168 169
+
+#
+# shape Segment106
+#
+
+v  -3.999998 24.000000 10.000000
+v  -12.000000 24.000000 10.000000
+# 2 vertices
+
+o Segment106
+g Segment106
+l 170 171
+
+#
+# shape Segment107
+#
+
+v  4.000002 24.000000 10.000000
+v  12.000000 24.000000 10.000000
+v  12.000000 24.000000 5.000000
+# 3 vertices
+
+o Segment107
+g Segment107
+l 172 173 174
+
+#
+# shape Segment109
+#
+
+v  12.000000 24.000000 10.000000
+v  12.000000 24.000000 15.000000
+# 2 vertices
+
+o Segment109
+g Segment109
+l 175 176
+
+#
+# shape Segment110
+#
+
+v  4.000002 24.000000 15.000000
+v  12.000000 24.000000 15.000000
+# 2 vertices
+
+o Segment110
+g Segment110
+l 177 178
+
+#
+# shape Segment111
+#
+
+v  -3.999998 24.000000 15.000000
+v  4.000002 24.000000 15.000000
+# 2 vertices
+
+o Segment111
+g Segment111
+l 179 180
+
+#
+# shape Segment112
+#
+
+v  -3.999998 24.000000 15.000000
+v  -12.000000 24.000000 15.000000
+v  -12.000000 24.000000 10.000000
+# 3 vertices
+
+o Segment112
+g Segment112
+l 181 182 183
+
+#
+# shape Segment114
+#
+
+v  -12.000000 24.000000 15.000000
+v  -12.000000 24.000000 20.000000
+# 2 vertices
+
+o Segment114
+g Segment114
+l 184 185
+
+#
+# shape Segment115
+#
+
+v  -3.999998 24.000000 20.000000
+v  4.000002 24.000000 20.000000
+# 2 vertices
+
+o Segment115
+g Segment115
+l 186 187
+
+#
+# shape Segment116
+#
+
+v  -3.999998 24.000000 20.000000
+v  -12.000000 24.000000 20.000000
+# 2 vertices
+
+o Segment116
+g Segment116
+l 188 189
+
+#
+# shape Segment117
+#
+
+v  4.000002 24.000000 20.000000
+v  12.000000 24.000000 20.000000
+v  12.000000 24.000000 15.000000
+# 3 vertices
+
+o Segment117
+g Segment117
+l 190 191 192
+
+#
+# shape Segment119
+#
+
+v  12.000000 24.000000 20.000000
+v  12.000000 24.000000 25.000000
+# 2 vertices
+
+o Segment119
+g Segment119
+l 193 194
+
+#
+# shape Segment120
+#
+
+v  4.000002 24.000000 25.000000
+v  12.000000 24.000000 25.000000
+# 2 vertices
+
+o Segment120
+g Segment120
+l 195 196
+
+#
+# shape Segment121
+#
+
+v  -3.999998 24.000000 25.000000
+v  4.000002 24.000000 25.000000
+# 2 vertices
+
+o Segment121
+g Segment121
+l 197 198
+
+#
+# shape Segment122
+#
+
+v  -3.999998 24.000000 25.000000
+v  -12.000000 24.000000 25.000000
+v  -12.000000 24.000000 20.000000
+# 3 vertices
+
+o Segment122
+g Segment122
+l 199 200 201
+
+#
+# shape Segment124
+#
+
+v  -12.000000 24.000000 25.000000
+v  -12.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment124
+g Segment124
+l 202 203
+
+#
+# shape Segment125
+#
+
+v  -4.000000 24.000000 30.000000
+v  -12.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment125
+g Segment125
+l 204 205
+
+#
+# shape Segment126
+#
+
+v  0.000000 24.000000 30.000000
+v  4.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment126
+g Segment126
+l 206 207
+
+#
+# shape Segment127
+#
+
+v  0.000000 24.000000 30.000000
+v  -4.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment127
+g Segment127
+l 208 209
+
+#
+# shape Segment128
+#
+
+v  4.000000 24.000000 30.000000
+v  12.000000 24.000000 30.000000
+v  12.000000 24.000000 25.000000
+# 3 vertices
+
+o Segment128
+g Segment128
+l 210 211 212
+
+#
+# shape Segment134
+#
+
+v  -12.000000 24.000000 30.000000
+v  0.000000 24.000000 35.000000
+v  12.000000 24.000000 30.000000
+# 3 vertices
+
+o Segment134
+g Segment134
+l 213 214 215
+
+#
+# shape Segment136
+#
+
+v  0.000000 24.000000 35.000000
+v  0.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment136
+g Segment136
+l 216 217
+
+#
+# shape Segment137
+#
+
+v  -12.000000 24.000000 0.000000
+v  -12.000000 24.000000 -3.000000
+# 2 vertices
+
+o Segment137
+g Segment137
+l 218 219
+
+#
+# shape Segment140
+#
+
+v  12.000000 24.000000 0.000000
+v  12.000000 24.000000 -3.000000
+# 2 vertices
+
+o Segment140
+g Segment140
+l 220 221
+
+#
+# shape Segment141
+#
+
+v  0.000000 8.000000 30.000000
+v  0.000000 0.000000 30.000000
+# 2 vertices
+
+o Segment141
+g Segment141
+l 222 223
+
+#
+# shape Segment142
+#
+
+v  0.000000 16.000000 30.000000
+v  0.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment142
+g Segment142
+l 224 225
+
+#
+# shape Segment143
+#
+
+v  0.000000 16.000000 30.000000
+v  0.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment143
+g Segment143
+l 226 227
+
+#
+# shape Segment144
+#
+
+v  0.000000 8.000000 35.000000
+v  0.000000 0.000000 35.000000
+# 2 vertices
+
+o Segment144
+g Segment144
+l 228 229
+
+#
+# shape Segment145
+#
+
+v  0.000000 16.000000 35.000000
+v  0.000000 8.000000 35.000000
+# 2 vertices
+
+o Segment145
+g Segment145
+l 230 231
+
+#
+# shape Segment146
+#
+
+v  0.000000 16.000000 35.000000
+v  0.000000 24.000000 35.000000
+# 2 vertices
+
+o Segment146
+g Segment146
+l 232 233
+
+#
+# shape Segment147
+#
+
+v  12.000000 8.000000 5.000000
+v  12.000000 0.000000 5.000000
+# 2 vertices
+
+o Segment147
+g Segment147
+l 234 235
+
+#
+# shape Segment148
+#
+
+v  12.000000 16.000000 5.000000
+v  12.000000 8.000000 5.000000
+# 2 vertices
+
+o Segment148
+g Segment148
+l 236 237
+
+#
+# shape Segment149
+#
+
+v  12.000000 16.000000 5.000000
+v  12.000000 24.000000 5.000000
+# 2 vertices
+
+o Segment149
+g Segment149
+l 238 239
+
+#
+# shape Segment150
+#
+
+v  12.000000 8.000000 10.000000
+v  12.000000 0.000000 10.000000
+# 2 vertices
+
+o Segment150
+g Segment150
+l 240 241
+
+#
+# shape Segment151
+#
+
+v  12.000000 16.000000 10.000000
+v  12.000000 8.000000 10.000000
+# 2 vertices
+
+o Segment151
+g Segment151
+l 242 243
+
+#
+# shape Segment152
+#
+
+v  12.000000 16.000000 10.000000
+v  12.000000 24.000000 10.000000
+# 2 vertices
+
+o Segment152
+g Segment152
+l 244 245
+
+#
+# shape Segment153
+#
+
+v  12.000000 8.000000 15.000000
+v  12.000000 0.000000 15.000000
+# 2 vertices
+
+o Segment153
+g Segment153
+l 246 247
+
+#
+# shape Segment154
+#
+
+v  12.000000 16.000000 15.000000
+v  12.000000 8.000000 15.000000
+# 2 vertices
+
+o Segment154
+g Segment154
+l 248 249
+
+#
+# shape Segment155
+#
+
+v  12.000000 16.000000 15.000000
+v  12.000000 24.000000 15.000000
+# 2 vertices
+
+o Segment155
+g Segment155
+l 250 251
+
+#
+# shape Segment156
+#
+
+v  12.000000 8.000000 20.000000
+v  12.000000 0.000000 20.000000
+# 2 vertices
+
+o Segment156
+g Segment156
+l 252 253
+
+#
+# shape Segment157
+#
+
+v  12.000000 16.000000 20.000000
+v  12.000000 8.000000 20.000000
+# 2 vertices
+
+o Segment157
+g Segment157
+l 254 255
+
+#
+# shape Segment158
+#
+
+v  12.000000 16.000000 20.000000
+v  12.000000 24.000000 20.000000
+# 2 vertices
+
+o Segment158
+g Segment158
+l 256 257
+
+#
+# shape Segment159
+#
+
+v  12.000000 8.000000 25.000000
+v  12.000000 0.000000 25.000000
+# 2 vertices
+
+o Segment159
+g Segment159
+l 258 259
+
+#
+# shape Segment160
+#
+
+v  12.000000 16.000000 25.000000
+v  12.000000 8.000000 25.000000
+# 2 vertices
+
+o Segment160
+g Segment160
+l 260 261
+
+#
+# shape Segment161
+#
+
+v  12.000000 16.000000 25.000000
+v  12.000000 24.000000 25.000000
+# 2 vertices
+
+o Segment161
+g Segment161
+l 262 263
+
+#
+# shape Segment162
+#
+
+v  12.000000 8.000000 30.000000
+v  12.000000 0.000000 30.000000
+# 2 vertices
+
+o Segment162
+g Segment162
+l 264 265
+
+#
+# shape Segment163
+#
+
+v  12.000000 16.000000 30.000000
+v  12.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment163
+g Segment163
+l 266 267
+
+#
+# shape Segment164
+#
+
+v  12.000000 16.000000 30.000000
+v  12.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment164
+g Segment164
+l 268 269
+
+#
+# shape Segment165
+#
+
+v  12.000000 8.000000 0.000000
+v  12.000000 0.000000 0.000000
+# 2 vertices
+
+o Segment165
+g Segment165
+l 270 271
+
+#
+# shape Segment166
+#
+
+v  12.000000 16.000000 0.000000
+v  12.000000 8.000000 0.000000
+# 2 vertices
+
+o Segment166
+g Segment166
+l 272 273
+
+#
+# shape Segment167
+#
+
+v  12.000000 16.000000 0.000000
+v  12.000000 24.000000 0.000000
+# 2 vertices
+
+o Segment167
+g Segment167
+l 274 275
+
+#
+# shape Segment168
+#
+
+v  4.000002 24.000000 5.000000
+v  3.999998 0.000000 5.000000
+# 2 vertices
+
+o Segment168
+g Segment168
+l 276 277
+
+#
+# shape Segment169
+#
+
+v  4.000002 24.000000 10.000000
+v  3.999998 0.000000 10.000000
+# 2 vertices
+
+o Segment169
+g Segment169
+l 278 279
+
+#
+# shape Segment170
+#
+
+v  4.000002 24.000000 15.000000
+v  3.999998 0.000000 15.000000
+# 2 vertices
+
+o Segment170
+g Segment170
+l 280 281
+
+#
+# shape Segment171
+#
+
+v  4.000002 24.000000 20.000000
+v  3.999998 0.000000 20.000000
+# 2 vertices
+
+o Segment171
+g Segment171
+l 282 283
+
+#
+# shape Segment172
+#
+
+v  4.000002 24.000000 25.000000
+v  3.999998 0.000000 25.000000
+# 2 vertices
+
+o Segment172
+g Segment172
+l 284 285
+
+#
+# shape Segment173
+#
+
+v  4.000000 8.000000 30.000000
+v  4.000000 -0.000001 30.000000
+# 2 vertices
+
+o Segment173
+g Segment173
+l 286 287
+
+#
+# shape Segment174
+#
+
+v  4.000000 15.999999 30.000000
+v  4.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment174
+g Segment174
+l 288 289
+
+#
+# shape Segment175
+#
+
+v  4.000000 15.999999 30.000000
+v  4.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment175
+g Segment175
+l 290 291
+
+#
+# shape Segment176
+#
+
+v  4.000000 8.000001 0.000000
+v  4.000000 0.000001 0.000000
+# 2 vertices
+
+o Segment176
+g Segment176
+l 292 293
+
+#
+# shape Segment177
+#
+
+v  4.000000 16.000000 0.000000
+v  4.000000 8.000001 0.000000
+# 2 vertices
+
+o Segment177
+g Segment177
+l 294 295
+
+#
+# shape Segment178
+#
+
+v  4.000000 16.000000 0.000000
+v  4.000000 24.000000 0.000000
+# 2 vertices
+
+o Segment178
+g Segment178
+l 296 297
+
+#
+# shape Segment179
+#
+
+v  -3.999998 24.000000 5.000000
+v  -4.000002 0.000000 5.000000
+# 2 vertices
+
+o Segment179
+g Segment179
+l 298 299
+
+#
+# shape Segment180
+#
+
+v  -3.999998 24.000000 10.000000
+v  -4.000002 0.000000 10.000000
+# 2 vertices
+
+o Segment180
+g Segment180
+l 300 301
+
+#
+# shape Segment181
+#
+
+v  -3.999998 24.000000 15.000000
+v  -4.000002 0.000000 15.000000
+# 2 vertices
+
+o Segment181
+g Segment181
+l 302 303
+
+#
+# shape Segment182
+#
+
+v  -3.999998 24.000000 20.000000
+v  -4.000002 0.000000 20.000000
+# 2 vertices
+
+o Segment182
+g Segment182
+l 304 305
+
+#
+# shape Segment183
+#
+
+v  -3.999998 24.000000 25.000000
+v  -4.000002 0.000000 25.000000
+# 2 vertices
+
+o Segment183
+g Segment183
+l 306 307
+
+#
+# shape Segment184
+#
+
+v  -4.000000 8.000000 30.000000
+v  -4.000000 -0.000001 30.000000
+# 2 vertices
+
+o Segment184
+g Segment184
+l 308 309
+
+#
+# shape Segment185
+#
+
+v  -4.000000 15.999999 30.000000
+v  -4.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment185
+g Segment185
+l 310 311
+
+#
+# shape Segment186
+#
+
+v  -4.000000 15.999999 30.000000
+v  -4.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment186
+g Segment186
+l 312 313
+
+#
+# shape Segment187
+#
+
+v  -4.000000 8.000001 0.000000
+v  -4.000000 0.000001 0.000000
+# 2 vertices
+
+o Segment187
+g Segment187
+l 314 315
+
+#
+# shape Segment188
+#
+
+v  -4.000000 16.000000 0.000000
+v  -4.000000 8.000001 0.000000
+# 2 vertices
+
+o Segment188
+g Segment188
+l 316 317
+
+#
+# shape Segment189
+#
+
+v  -4.000000 16.000000 0.000000
+v  -4.000000 24.000000 0.000000
+# 2 vertices
+
+o Segment189
+g Segment189
+l 318 319
+
+#
+# shape Segment190
+#
+
+v  -12.000000 8.000000 5.000000
+v  -12.000000 0.000000 5.000000
+# 2 vertices
+
+o Segment190
+g Segment190
+l 320 321
+
+#
+# shape Segment191
+#
+
+v  -12.000000 16.000000 5.000000
+v  -12.000000 8.000000 5.000000
+# 2 vertices
+
+o Segment191
+g Segment191
+l 322 323
+
+#
+# shape Segment192
+#
+
+v  -12.000000 16.000000 5.000000
+v  -12.000000 24.000000 5.000000
+# 2 vertices
+
+o Segment192
+g Segment192
+l 324 325
+
+#
+# shape Segment193
+#
+
+v  -12.000000 8.000000 10.000000
+v  -12.000000 0.000000 10.000000
+# 2 vertices
+
+o Segment193
+g Segment193
+l 326 327
+
+#
+# shape Segment194
+#
+
+v  -12.000000 16.000000 10.000000
+v  -12.000000 8.000000 10.000000
+# 2 vertices
+
+o Segment194
+g Segment194
+l 328 329
+
+#
+# shape Segment195
+#
+
+v  -12.000000 16.000000 10.000000
+v  -12.000000 24.000000 10.000000
+# 2 vertices
+
+o Segment195
+g Segment195
+l 330 331
+
+#
+# shape Segment196
+#
+
+v  -12.000000 8.000000 15.000000
+v  -12.000000 0.000000 15.000000
+# 2 vertices
+
+o Segment196
+g Segment196
+l 332 333
+
+#
+# shape Segment197
+#
+
+v  -12.000000 16.000000 15.000000
+v  -12.000000 8.000000 15.000000
+# 2 vertices
+
+o Segment197
+g Segment197
+l 334 335
+
+#
+# shape Segment198
+#
+
+v  -12.000000 16.000000 15.000000
+v  -12.000000 24.000000 15.000000
+# 2 vertices
+
+o Segment198
+g Segment198
+l 336 337
+
+#
+# shape Segment199
+#
+
+v  -12.000000 8.000000 20.000000
+v  -12.000000 0.000000 20.000000
+# 2 vertices
+
+o Segment199
+g Segment199
+l 338 339
+
+#
+# shape Segment200
+#
+
+v  -12.000000 16.000000 20.000000
+v  -12.000000 8.000000 20.000000
+# 2 vertices
+
+o Segment200
+g Segment200
+l 340 341
+
+#
+# shape Segment201
+#
+
+v  -12.000000 16.000000 20.000000
+v  -12.000000 24.000000 20.000000
+# 2 vertices
+
+o Segment201
+g Segment201
+l 342 343
+
+#
+# shape Segment202
+#
+
+v  -12.000000 8.000000 25.000000
+v  -12.000000 0.000000 25.000000
+# 2 vertices
+
+o Segment202
+g Segment202
+l 344 345
+
+#
+# shape Segment203
+#
+
+v  -12.000000 16.000000 25.000000
+v  -12.000000 8.000000 25.000000
+# 2 vertices
+
+o Segment203
+g Segment203
+l 346 347
+
+#
+# shape Segment204
+#
+
+v  -12.000000 16.000000 25.000000
+v  -12.000000 24.000000 25.000000
+# 2 vertices
+
+o Segment204
+g Segment204
+l 348 349
+
+#
+# shape Segment205
+#
+
+v  -12.000000 8.000000 30.000000
+v  -12.000000 0.000000 30.000000
+# 2 vertices
+
+o Segment205
+g Segment205
+l 350 351
+
+#
+# shape Segment206
+#
+
+v  -12.000000 16.000000 30.000000
+v  -12.000000 8.000000 30.000000
+# 2 vertices
+
+o Segment206
+g Segment206
+l 352 353
+
+#
+# shape Segment207
+#
+
+v  -12.000000 16.000000 30.000000
+v  -12.000000 24.000000 30.000000
+# 2 vertices
+
+o Segment207
+g Segment207
+l 354 355
+
+#
+# shape Segment208
+#
+
+v  -12.000000 8.000000 0.000000
+v  -12.000000 0.000000 0.000000
+# 2 vertices
+
+o Segment208
+g Segment208
+l 356 357
+
+#
+# shape Segment209
+#
+
+v  -12.000000 16.000000 0.000000
+v  -12.000000 8.000000 0.000000
+# 2 vertices
+
+o Segment209
+g Segment209
+l 358 359
+
+#
+# shape Segment210
+#
+
+v  -12.000000 16.000000 0.000000
+v  -12.000000 24.000000 0.000000
+# 2 vertices
+
+o Segment210
+g Segment210
+l 360 361
+
+#
+# shape Segment1
+#
+
+v  4.000000 0.000001 0.000000
+v  -4.000000 0.000001 0.000000
+# 2 vertices
+
+o Segment1
+g Segment1
+l 362 363
+
+#
+# shape Segment0
+#
+
+v  -4.000000 0.000001 0.000000
+v  -12.000000 0.000000 0.000000
+# 2 vertices
+
+o Segment0
+g Segment0
+l 364 365
+
+
+#Feature
+
+#
+# shape Feature18
+#
+
+v  -12.000000 0.000000 0.000000
+v  -12.000000 0.000000 -3.000000
+# 2 vertices
+
+o Feature18
+g Feature18
+l 366 367
+
+#
+# shape Feature17
+#
+
+v  -12.000000 0.000000 0.000000
+v  -12.000000 0.000000 5.000000
+v  -12.000000 0.000000 10.000000
+# 3 vertices
+
+o Feature17
+g Feature17
+l 368 369 370
+
+#
+# shape Feature16
+#
+
+v  -12.000000 0.000000 15.000000
+v  -12.000000 0.000000 10.000000
+# 2 vertices
+
+o Feature16
+g Feature16
+l 371 372
+
+#
+# shape Feature15
+#
+
+v  -12.000000 0.000000 25.000000
+v  -12.000000 0.000000 20.000000
+# 2 vertices
+
+o Feature15
+g Feature15
+l 373 374
+
+#
+# shape Feature14
+#
+
+v  -12.000000 0.000000 15.000000
+v  -12.000000 0.000000 20.000000
+# 2 vertices
+
+o Feature14
+g Feature14
+l 375 376
+
+#
+# shape Feature13
+#
+
+v  -12.000000 0.000000 25.000000
+v  -12.000000 0.000000 30.000000
+v  0.000000 0.000000 35.000000
+v  12.000000 0.000000 30.000000
+# 4 vertices
+
+o Feature13
+g Feature13
+l 377 378 379 380
+
+#
+# shape Feature12
+#
+
+v  12.000000 0.000000 30.000000
+v  12.000000 0.000000 25.000000
+# 2 vertices
+
+o Feature12
+g Feature12
+l 381 382
+
+#
+# shape Feature11
+#
+
+v  12.000000 0.000000 20.000000
+v  12.000000 0.000000 25.000000
+# 2 vertices
+
+o Feature11
+g Feature11
+l 383 384
+
+#
+# shape Feature10
+#
+
+v  12.000000 0.000000 20.000000
+v  12.000000 0.000000 15.000000
+# 2 vertices
+
+o Feature10
+g Feature10
+l 385 386
+
+#
+# shape Feature09
+#
+
+v  12.000000 0.000000 10.000000
+v  12.000000 0.000000 15.000000
+# 2 vertices
+
+o Feature09
+g Feature09
+l 387 388
+
+#
+# shape Feature08
+#
+
+v  12.000000 0.000000 10.000000
+v  12.000000 0.000000 5.000000
+# 2 vertices
+
+o Feature08
+g Feature08
+l 389 390
+
+#
+# shape Feature07
+#
+
+v  12.000000 0.000000 0.000000
+v  12.000000 0.000000 5.000000
+# 2 vertices
+
+o Feature07
+g Feature07
+l 391 392
+
+#
+# shape Feature06
+#
+
+v  12.000000 0.000000 0.000000
+v  12.000000 0.000000 -3.000000
+# 2 vertices
+
+o Feature06
+g Feature06
+l 393 394
+
+#
+# shape Feature05
+#
+
+v  4.000000 24.000000 0.000000
+v  4.000000 24.000000 -3.000000
+# 2 vertices
+
+o Feature05
+g Feature05
+l 395 396
+
+#
+# shape Feature04
+#
+
+v  4.000002 24.000000 5.000000
+v  4.000000 24.000000 0.000000
+# 2 vertices
+
+o Feature04
+g Feature04
+l 397 398
+
+#
+# shape Feature03
+#
+
+v  4.000002 24.000000 5.000000
+v  4.000000 24.000000 30.000000
+# 2 vertices
+
+o Feature03
+g Feature03
+l 399 400
+
+#
+# shape Feature02
+#
+
+v  -3.999998 24.000000 5.000000
+v  -4.000000 24.000000 30.000000
+# 2 vertices
+
+o Feature02
+g Feature02
+l 401 402
+
+#
+# shape Feature01
+#
+
+v  -3.999998 24.000000 5.000000
+v  -4.000000 24.000000 0.000000
+# 2 vertices
+
+o Feature01
+g Feature01
+l 403 404
+
+#
+# shape Feature00
+#
+
+v  -4.000000 24.000000 0.000000
+v  -4.000000 24.000000 -3.000000
+# 2 vertices
+
+o Feature00
+g Feature00
+l 405 406
+
+#
+# shape Feature2_00
+#
+
+v  -4.000000 0.000001 0.000000
+v  -4.000000 0.000000 -3.000000
+# 2 vertices
+
+o Feature2_00
+g Feature2_00
+l 407 408
+
+#
+# shape Feature2_01
+#
+
+v  -4.000002 0.000000 5.000000
+v  -4.000000 0.000001 0.000000
+# 2 vertices
+
+o Feature2_01
+g Feature2_01
+l 409 410
+
+#
+# shape Feature2_02
+#
+
+v  -4.000002 0.000000 5.000000
+v  -4.000000 -0.000001 30.000000
+# 2 vertices
+
+o Feature2_02
+g Feature2_02
+l 411 412
+
+#
+# shape Feature2_03
+#
+
+v  4.000000 0.000001 0.000000
+v  4.000000 0.000000 -3.000000
+# 2 vertices
+
+o Feature2_03
+g Feature2_03
+l 413 414
+
+#
+# shape Feature2_04
+#
+
+v  3.999998 0.000000 5.000000
+v  4.000000 0.000001 0.000000
+# 2 vertices
+
+o Feature2_04
+g Feature2_04
+l 415 416
+
+#
+# shape Feature2_05
+#
+
+v  3.999998 0.000000 5.000000
+v  4.000000 -0.000001 30.000000
+# 2 vertices
+
+o Feature2_05
+g Feature2_05
+l 417 418
+

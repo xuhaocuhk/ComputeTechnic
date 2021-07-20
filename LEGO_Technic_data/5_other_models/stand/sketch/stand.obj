@@ -1,0 +1,123 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.01.2018 11:52:13
+
+#
+# shape feature00
+#
+
+v  -3.000000 2.000000 4.000000
+v  -3.000000 -2.000000 4.000000
+# 2 vertices
+
+o feature00
+g feature00
+l 1 2
+
+#
+# shape feature01
+#
+
+v  -3.000000 -2.000000 4.000000
+v  -3.000000 -5.000000 -0.000000
+# 2 vertices
+
+o feature01
+g feature01
+l 3 4
+
+#
+# shape feature02
+#
+
+v  -3.000000 2.000000 4.000000
+v  -3.000000 5.000000 0.000000
+# 2 vertices
+
+o feature02
+g feature02
+l 5 6
+
+#
+# shape feature03
+#
+
+v  -3.000001 -5.000000 0.000000
+v  -2.999999 5.000000 -0.000000
+# 2 vertices
+
+o feature03
+g feature03
+l 7 8
+
+#
+# shape Line005
+#
+
+v  0.000000 0.000000 0.000000
+v  -3.000000 0.000000 0.000000
+# 2 vertices
+
+o Line005
+g Line005
+l 9 10
+
+#
+# shape Line006
+#
+
+v  0.000000 -1.000000 0.000000
+v  -3.000000 -1.000000 0.000000
+# 2 vertices
+
+o Line006
+g Line006
+l 11 12
+
+#
+# shape Line007
+#
+
+v  0.000000 1.000000 0.000000
+v  -3.000000 1.000000 0.000000
+# 2 vertices
+
+o Line007
+g Line007
+l 13 14
+
+#
+# shape Line008
+#
+
+v  0.000000 -0.000000 0.000000
+v  -0.000000 -0.000000 2.000000
+# 2 vertices
+
+o Line008
+g Line008
+l 15 16
+
+#
+# shape Line009
+#
+
+v  0.000000 -0.000000 2.000000
+v  -3.000000 -0.000000 2.000000
+# 2 vertices
+
+o Line009
+g Line009
+l 17 18
+
+#
+# shape Line010
+#
+
+v  -3.000000 0.000000 2.000000
+v  -3.000000 -0.000000 4.000000
+# 2 vertices
+
+o Line010
+g Line010
+l 19 20
+

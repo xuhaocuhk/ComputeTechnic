@@ -1,0 +1,153 @@
+v 0 0 0
+v 6 0 0
+v 14 0 0
+v 22 0 0
+v 30 0 0
+v 38 0 0
+v 0 0 6
+v 6 0 6
+v 14 0 6
+v 22 0 6
+v 30 0 6
+v 38 0 6
+v 46 0 6
+v 46 0 0
+v 0 6 0
+v 6 6 0
+v 14 6 0
+v 22 6 0
+v 30 6 0
+v 38 6 0
+v 0 6 6
+v 6 6 6
+v 14 6 6
+v 22 6 6
+v 30 6 6
+v 38 6 6
+v 46 6 6
+v 46 6 0
+g Spine
+g Segment0
+l 1 2
+g Segment1
+l 2 3
+g Segment2
+l 3 4
+g Segment3
+l 4 5
+g Segment4
+l 5 6
+g Segment5
+l 1 7
+g Segment6
+l 7 8
+g Segment7
+l 8 9
+g Segment8
+l 9 10
+g Segment9
+l 10 11
+g Segment10
+l 11 12
+g Segment11
+l 12 13
+g Segment12
+l 13 6
+g Segment13
+l 6 14
+g Segment14
+l 14 13
+g Segment15
+l 6 12
+g Segment16
+l 11 5
+g Segment17
+l 4 10
+g Segment18
+l 9 3
+g Segment19
+l 2 8
+g Segment20
+l 12 5
+g Segment21
+l 11 4
+g Segment22
+l 10 3
+g Segment23
+l 9 2
+g Segment24
+l 15 16
+g Segment25
+l 16 17
+g Segment26
+l 17 18
+g Segment27
+l 18 19
+g Segment28
+l 19 20
+g Segment29
+l 15 21
+g Segment30
+l 21 22
+g Segment31
+l 22 23
+g Segment32
+l 23 24
+g Segment33
+l 24 25
+g Segment34
+l 25 26
+g Segment35
+l 26 27
+g Segment36
+l 27 20
+g Segment37
+l 20 28
+g Segment38
+l 28 27
+g Segment39
+l 20 26
+g Segment40
+l 25 19
+g Segment41
+l 18 24
+g Segment42
+l 23 17
+g Segment43
+l 16 22
+g Segment44
+l 26 19
+g Segment45
+l 25 18
+g Segment46
+l 24 17
+g Segment47
+l 23 16
+g Segment48
+l 1 15
+g Segment49
+l 7 21
+g Segment50
+l 2 16
+g Segment51
+l 8 22
+g Segment52
+l 3 17
+g Segment53
+l 9 23
+g Segment54
+l 4 18
+g Segment55
+l 10 24
+g Segment56
+l 5 19
+g Segment57
+l 11 25
+g Segment58
+l 6 20
+g Segment59
+l 12 26
+g Segment60
+l 14 28
+g Segment61
+l 13 27

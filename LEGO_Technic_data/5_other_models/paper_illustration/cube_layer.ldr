@@ -1,0 +1,67 @@
+0 STEP ------------------Current holes on this graph-------------------------
+0 Name: 
+0 Author: 
+0 Hole:(-4.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-3.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -60 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-2.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -40 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-1.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -20 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(0.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 0 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(1.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 20 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(2.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 40 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(3.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 60 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,0.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 0 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,7.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 140 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,6.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 120 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,5.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 100 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,4.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 80 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,3.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 60 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,2.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 40 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(4.000000,-4.000000,1.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 80 -101 20 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-3.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -60 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-2.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -40 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-1.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -20 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(0.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 0 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(1.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 20 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(2.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 40 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(3.000000,-4.000000,8.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 60 -101 160 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,7.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 140 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,6.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 120 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,5.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 100 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,4.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 80 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,3.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 60 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,2.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 40 1 0 0 0 1 0 0 0 1 18654.dat
+0 Hole:(-4.000000,-4.000000,1.000000),Beam Number:0,Covered:1, isCorner:0, isTJoint0
+1 11 -80 -101 20 1 0 0 0 1 0 0 0 1 18654.dat
